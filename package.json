@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-vic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"**/*.{js,jsx,json,md,html}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriapirovani/portfolio.git"
+  },
+  "author": "Victoria Pirovani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victoriapirovani/portfolio/issues"
+  },
+  "homepage": "https://github.com/victoriapirovani/portfolio#readme",
+  "devDependencies": {
+    "prettier": "^2.0.3"
+  }
+}
